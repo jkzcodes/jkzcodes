@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessie, or jkzcodes</h1>
 <h3 align="center">A junior software developer from Montreal, Québec, Canada</h3>
-<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
 - 🌱 I’m currently learning **React, Vue and TypeScript**
 
