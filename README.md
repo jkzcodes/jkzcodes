@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at: [insertlink](insertlink)
 
-- 📝 I have a blog, check it out: [bloglink](bloglink)
-
 - 💬 Ask me about: **My post-university plans!**
 
 - 📫 How to reach me: **jessie.kurtz@mail.mcgill.ca**
