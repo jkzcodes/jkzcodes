@@ -16,7 +16,7 @@
 - Designed the frontend in **Vue**, using Vuetify and Bootstrap frameworks.
 - Configured the backend in Java using the **Spring Boot** framework.
 
-2. Firefighting Robot
+2. [Firefighting Robot](https://youtu.be/OWQ5Dy_Kga0)
 - Assembled and programmed a robot to deliver the correct fire suppressant cube to a hypothetical fire located on a grid.
 - Utilized control sensors, motors, a BrickPi and a Raspberry Pi.
 - Used Breadth-First-Search Algorithm, coded in **Python**, to find the quickest path to the fire on the map. 
