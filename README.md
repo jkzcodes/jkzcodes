@@ -9,7 +9,7 @@
 
 👨‍💻 My projects:
 
-1. Sports Center Website
+1. [Sports Center Website](https://github.com/McGill-ECSE321-Winter2024/project-group-16)
 - Created a full-stack web application in a team of 6 following an Agile methodology.
 - Modified the UI according to three different user roles, here Owner, Instructor and Customer.
 - Implemented 403 and 404 error pages for security and usability of the application.
