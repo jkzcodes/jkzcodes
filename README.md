@@ -4,8 +4,19 @@
 - 💬 Ask me about: **My post-university plans!**
 
 - 📫 How to reach me: **jessie.kurtz@mail.mcgill.ca**
+👨‍💻 Recent Projects - COMP 551 & COMP 579 @McGill:
 
-👨‍💻 My projects:
+1. [Trading Deep Q-Networks (TDQN) – Reinforcement Learning Used for Trading](https://github.com/ma-nadeau/Trading-Deep-Q-Networks)
+- Enhanced a trading Deep Q-Network with components from the Rainbow DQN architecture (Dueling Networks, Noisy Nets, Prioritized Experience Replay) and implemented an Actor-Critic algorithm.
+- Demonstrated improved trading performance on Tesla and Apple stocks, maintaining profitability even during market downturns.
+
+2. [Deep Q-Network and Expected SARSA for Atari Games and Robotic Control (Acrobot)](https://github.com/ma-nadeau/Deep-Reinforcement-Learning)
+- Applied Deep Q-Network (DQN) and Expected SARSA algorithms to an Atari game and an Acrobot robotic arm system.
+- Demonstrated effective learning in both environments.
+
+3. 
+
+👨‍💻 Older Projects:
 
 1. [Sports Center Website](https://github.com/McGill-ECSE321-Winter2024/project-group-16)
 - Created a full-stack web application in a team of 6 following an Agile methodology.
