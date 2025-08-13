@@ -20,16 +20,21 @@
 1. [Emotion Classification](https://github.com/ma-nadeau/Emotion-Classification-using-LLMs)
 - Evaluated DistilGPT-2, Multinomial Naive Bayes, and Random Forest models for classifying the
 GoEmotions dataset, focusing on accuracy, recall, and efficiency.
+- DistilGPT-2 performed best, with a test accuracy of 0.6168.
 
 2. [Image Classification - OrganAMNIST dataset](https://github.com/ma-nadeau/ImageClassification-MultilayerPerceptrons-CNNs)
 - Asessed MLPs, CNNs, and MobileNetV2 for classifying the OrganAMNIST dataset, emphasizing
 accuracy, recall, and computational efficiency.
+- MobileNetV2 with frozen convolutional layers and trainable fully connected layers achieved the best results, with a test accuracy of 0.9249.
 
 3. [Oral Temperature Predictor - Linear Regression](https://github.com/ma-nadeau/InfraredThermography_LinearRegression)
 - Compared mini-batch stochastic gradient descent (SGD) to full-batch SGD to predict average oral temperatures.
+- Mini-batch SGD presented quick convergence and a high R^2 score
 
 4. [Diabetes Predictor - Logistic Regression](https://github.com/ma-nadeau/DiabetesPredictors_LogisticRegression) 
-- Compared mini-batch stochastic gradient (SGD) to full-batch SGD to predict presence or absence of diabetes. 
+- Compared mini-batch stochastic gradient (SGD) to full-batch SGD to predict presence or absence of diabetes.
+- Mini-batch SGD presented quick convergence and a high F1 score
+
 
 👨‍💻 Older Projects:
 
