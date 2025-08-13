@@ -5,8 +5,8 @@
 
 - 📫 How to reach me: **jessie.kurtz@mail.mcgill.ca**
   
-**👨‍💻 Reinforcement Learning - COMP 579 @McGill:
-**
+👨‍💻 Reinforcement Learning - COMP 579 @McGill:
+
 1. [Trading Deep Q-Networks (TDQN)](https://github.com/ma-nadeau/Trading-Deep-Q-Networks)
 - Enhanced a trading Deep Q-Network with components from the Rainbow DQN architecture (Dueling Networks, Noisy Nets, Prioritized Experience Replay) and implemented an Actor-Critic algorithm.
 - Demonstrated improved trading performance on Tesla and Apple stocks, maintaining profitability even during market downturns.
@@ -15,8 +15,8 @@
 - Applied Deep Q-Network (DQN) and Expected SARSA algorithms to an Atari game and an Acrobot robotic arm system.
 - Demonstrated effective learning in both environments.
 
-**👨‍💻 Applied Machine Learning  - COMP 551 @McGill:
-**
+👨‍💻 Applied Machine Learning  - COMP 551 @McGill:
+
 1. [Emotion Classification](https://github.com/ma-nadeau/Emotion-Classification-using-LLMs)
 - Evaluated DistilGPT-2, Multinomial Naive Bayes, and Random Forest models for classifying the
 GoEmotions dataset, focusing on accuracy, recall, and efficiency.
@@ -36,8 +36,8 @@ accuracy, recall, and computational efficiency.
 - Mini-batch SGD presented quick convergence and a high F1 score
 
 
-**👨‍💻 Older Projects:
-**
+👨‍💻 Older Projects:
+
 1. [Sports Center Website](https://github.com/McGill-ECSE321-Winter2024/project-group-16)
 - Created a full-stack web application in a team of 6 following an Agile methodology.
 - Modified the UI according to three different user roles, here Owner, Instructor and Customer.
