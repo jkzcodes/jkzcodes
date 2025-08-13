@@ -4,9 +4,10 @@
 - 💬 Ask me about: **My post-university plans!**
 
 - 📫 How to reach me: **jessie.kurtz@mail.mcgill.ca**
-👨‍💻 Recent Projects - COMP 551 & COMP 579 @McGill:
+  
+👨‍💻 Reinforcement Learning - COMP 579 @McGill:
 
-1. [Trading Deep Q-Networks (TDQN) – Reinforcement Learning Used for Trading](https://github.com/ma-nadeau/Trading-Deep-Q-Networks)
+1. [Trading Deep Q-Networks (TDQN)](https://github.com/ma-nadeau/Trading-Deep-Q-Networks)
 - Enhanced a trading Deep Q-Network with components from the Rainbow DQN architecture (Dueling Networks, Noisy Nets, Prioritized Experience Replay) and implemented an Actor-Critic algorithm.
 - Demonstrated improved trading performance on Tesla and Apple stocks, maintaining profitability even during market downturns.
 
@@ -14,7 +15,21 @@
 - Applied Deep Q-Network (DQN) and Expected SARSA algorithms to an Atari game and an Acrobot robotic arm system.
 - Demonstrated effective learning in both environments.
 
-3. 
+👨‍💻 Applied Machine Learning  - COMP 551 @McGill:
+
+1. [Emotion Classification](https://github.com/ma-nadeau/Emotion-Classification-using-LLMs)
+- Evaluated DistilGPT-2, Multinomial Naive Bayes, and Random Forest models for classifying the
+GoEmotions dataset, focusing on accuracy, recall, and efficiency.
+
+2. [Image Classification - OrganAMNIST dataset](https://github.com/ma-nadeau/ImageClassification-MultilayerPerceptrons-CNNs)
+- Asessed MLPs, CNNs, and MobileNetV2 for classifying the OrganAMNIST dataset, emphasizing
+accuracy, recall, and computational efficiency.
+
+3. [Oral Temperature Predictor - Linear Regression](https://github.com/ma-nadeau/InfraredThermography_LinearRegression)
+- Compared mini-batch stochastic gradient descent (SGD) to full-batch SGD to predict average oral temperatures.
+
+4. [Diabetes Predictor - Logistic Regression](https://github.com/ma-nadeau/DiabetesPredictors_LogisticRegression) 
+- Compared mini-batch stochastic gradient (SGD) to full-batch SGD to predict presence or absence of diabetes. 
 
 👨‍💻 Older Projects:
 
